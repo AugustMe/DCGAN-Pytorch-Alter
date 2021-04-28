@@ -74,7 +74,7 @@ python train.py --image_size=256 --ngf=64 --ndf=64  Training effect: good
 
 ### generate 5 * 5 pic:  
 
-![](predict_5x5_results-128e.png)
+![](predict_5x5_results-128.png)
 
 ### loss_curve:  
 
