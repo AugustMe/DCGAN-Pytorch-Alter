@@ -70,11 +70,11 @@ python train.py --image_size=256 --ngf=64 --ndf=64  Training effect: good
 
 ### generate 1 * 1 pic:  
 
-![](predict_1x1_results-128.jpg)
+![](predict_1x1_results-128.png)
 
 ### generate 5 * 5 pic:  
 
-![](predict_5x5_results-128e.jpg)
+![](predict_5x5_results-128e.png)
 
 ### loss_curve:  
 
