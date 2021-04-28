@@ -68,6 +68,16 @@ python train.py --image_size=256 --ngf=64 --ndf=64  Training effect: good
 
 ![](loss_curve.jpg)
 
+### generate 1 * 1 pic:  
+
+![](predict_1x1_results-128.jpg)
+
+### generate 5 * 5 pic:  
+
+![](predict_5x5_results-128e.jpg)
+
+### loss_curve:  
+
 # Reference  
 
 PyTorch implementations of Generative Adversarial Networks [9.2k star], implemention of various gan by pytorch [cyclegan, dcgan... ] ： 
